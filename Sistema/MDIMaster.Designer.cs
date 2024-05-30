@@ -34,11 +34,13 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(947, 473);
+            this.BackColor = System.Drawing.Color.LightGray; 
             this.Name = "MDIMaster";
             this.Text = "Sistema de Colegio";
             this.Load += new System.EventHandler(this.MDIMaster_Load);
             this.ResumeLayout(false);
+            this.PerformLayout();
+
         }
 
         #endregion

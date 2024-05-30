@@ -1,0 +1,17 @@
+C:\Users\kevin\source\repos\Sistema\Sistema\obj\Debug\Sistema.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\Sistema\Sistema\obj\Debug\Sistema.Login.resources
+C:\Users\kevin\source\repos\Sistema\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+C:\Users\kevin\source\repos\Sistema\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+C:\Users\kevin\source\repos\Sistema\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Sistema\Sistema\bin\Debug\Sistema.exe.config
+C:\Users\kevin\source\repos\Sistema\Sistema\bin\Debug\Sistema.exe
+C:\Users\kevin\source\repos\Sistema\Sistema\bin\Debug\Sistema.pdb
+C:\Users\kevin\source\repos\Sistema\Sistema\bin\Debug\CapaDatos.dll
+C:\Users\kevin\source\repos\Sistema\Sistema\bin\Debug\CapaModelo.dll
+C:\Users\kevin\source\repos\Sistema\Sistema\bin\Debug\System.Data.SqlClient.dll
+C:\Users\kevin\source\repos\Sistema\Sistema\bin\Debug\CapaDatos.pdb
+C:\Users\kevin\source\repos\Sistema\Sistema\bin\Debug\CapaModelo.pdb
+C:\Users\kevin\source\repos\Sistema\Sistema\bin\Debug\System.Data.SqlClient.xml
+C:\Users\kevin\source\repos\Sistema\Sistema\obj\Debug\Sistema.csproj.Up2Date
+C:\Users\kevin\source\repos\Sistema\Sistema\obj\Debug\Sistema.exe
+C:\Users\kevin\source\repos\Sistema\Sistema\obj\Debug\Sistema.pdb
