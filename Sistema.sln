@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34526.213
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema", "Sistema\Sistema.csproj", "{EB308D6A-B98A-4920-A764-FE31C3BFA4CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaModelo", "CapaModelo\CapaModelo.csproj", "{29B053D8-A421-4DC3-904D-C601CBB34F25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDatos", "CapaDatos\CapaDatos.csproj", "{48E182BA-D443-4C56-9DF5-00D0BE5AE879}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB308D6A-B98A-4920-A764-FE31C3BFA4CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB308D6A-B98A-4920-A764-FE31C3BFA4CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB308D6A-B98A-4920-A764-FE31C3BFA4CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB308D6A-B98A-4920-A764-FE31C3BFA4CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29B053D8-A421-4DC3-904D-C601CBB34F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29B053D8-A421-4DC3-904D-C601CBB34F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29B053D8-A421-4DC3-904D-C601CBB34F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29B053D8-A421-4DC3-904D-C601CBB34F25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48E182BA-D443-4C56-9DF5-00D0BE5AE879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E182BA-D443-4C56-9DF5-00D0BE5AE879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E182BA-D443-4C56-9DF5-00D0BE5AE879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E182BA-D443-4C56-9DF5-00D0BE5AE879}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11874EEA-2101-46FE-ABC7-2E31F9C2A2FC}
+	EndGlobalSection
+EndGlobal

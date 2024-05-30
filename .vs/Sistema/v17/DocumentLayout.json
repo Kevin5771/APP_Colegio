@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\source\\repos\\Sistema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29B053D8-A421-4DC3-904D-C601CBB34F25}|CapaModelo\\CapaModelo.csproj|c:\\users\\kevin\\source\\repos\\sistema\\capamodelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B053D8-A421-4DC3-904D-C601CBB34F25}|CapaModelo\\CapaModelo.csproj|solutionrelative:capamodelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB308D6A-B98A-4920-A764-FE31C3BFA4CC}|Sistema\\Sistema.csproj|c:\\users\\kevin\\source\\repos\\sistema\\sistema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB308D6A-B98A-4920-A764-FE31C3BFA4CC}|Sistema\\Sistema.csproj|solutionrelative:sistema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB308D6A-B98A-4920-A764-FE31C3BFA4CC}|Sistema\\Sistema.csproj|c:\\users\\kevin\\source\\repos\\sistema\\sistema\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB308D6A-B98A-4920-A764-FE31C3BFA4CC}|Sistema\\Sistema.csproj|solutionrelative:sistema\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Sistema\\CapaModelo\\Usuario.cs",
+              "RelativeDocumentMoniker": "CapaModelo\\Usuario.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Sistema\\CapaModelo\\Usuario.cs",
+              "RelativeToolTip": "CapaModelo\\Usuario.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:21:31.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Sistema\\Sistema\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema\\Program.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Sistema\\Sistema\\Program.cs",
+              "RelativeToolTip": "Sistema\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:02:11.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Sistema\\Sistema\\Login.cs",
+              "RelativeDocumentMoniker": "Sistema\\Login.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Sistema\\Sistema\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T01:50:23.644Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
