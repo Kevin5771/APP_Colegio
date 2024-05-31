@@ -15,3 +15,7 @@ C:\Users\kevin\source\repos\Sistema\Sistema\bin\Debug\System.Data.SqlClient.xml
 C:\Users\kevin\source\repos\Sistema\Sistema\obj\Debug\Sistema.csproj.Up2Date
 C:\Users\kevin\source\repos\Sistema\Sistema\obj\Debug\Sistema.exe
 C:\Users\kevin\source\repos\Sistema\Sistema\obj\Debug\Sistema.pdb
+C:\Users\kevin\source\repos\Sistema\Sistema\obj\Debug\Sistema.frmAgregarCalificacion.resources
+C:\Users\kevin\source\repos\Sistema\Sistema\obj\Debug\Sistema.frmAgregarCurricula.resources
+C:\Users\kevin\source\repos\Sistema\Sistema\obj\Debug\Sistema.frmCrearAlumnos.resources
+C:\Users\kevin\source\repos\Sistema\Sistema\obj\Debug\Sistema.frmCrearDocentes.resources

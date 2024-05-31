@@ -33,6 +33,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data.SqlClient, Version=4.6.1.6, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
@@ -47,9 +49,84 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ComboBoxItem.cs" />
     <Compile Include="Configuracion.cs" />
+    <Compile Include="EnumModelo.cs" />
+    <Compile Include="frmAgregarCalificacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgregarCalificacion.Designer.cs">
+      <DependentUpon>frmAgregarCalificacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAgregarCurricula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgregarCurricula.Designer.cs">
+      <DependentUpon>frmAgregarCurricula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAsignarCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAsignarCurso.Designer.cs">
+      <DependentUpon>frmAsignarCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAsignarDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAsignarDocente.Designer.cs">
+      <DependentUpon>frmAsignarDocente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBusqueda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBusqueda.Designer.cs">
+      <DependentUpon>frmBusqueda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCrearAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCrearAlumno.Designer.cs">
+      <DependentUpon>frmCrearAlumno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCrearCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCrearCurso.Designer.cs">
+      <DependentUpon>frmCrearCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCrearDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCrearDocente.Designer.cs">
+      <DependentUpon>frmCrearDocente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCrearGradoSeccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCrearGradoSeccion.Designer.cs">
+      <DependentUpon>frmCrearGradoSeccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCrearHorario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCrearHorario.Designer.cs">
+      <DependentUpon>frmCrearHorario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCrearMatricula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCrearMatricula.Designer.cs">
+      <DependentUpon>frmCrearMatricula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCrearNivel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCrearNivel.Designer.cs">
+      <DependentUpon>frmCrearNivel.cs</DependentUpon>
+    </Compile>
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,6 +141,24 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAgregarCalificacion.resx">
+      <DependentUpon>frmAgregarCalificacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAgregarCurricula.resx">
+      <DependentUpon>frmAgregarCurricula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCrearAlumno.resx">
+      <DependentUpon>frmCrearAlumno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCrearDocente.resx">
+      <DependentUpon>frmCrearDocente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCrearGradoSeccion.resx">
+      <DependentUpon>frmCrearGradoSeccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCrearNivel.resx">
+      <DependentUpon>frmCrearNivel.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
