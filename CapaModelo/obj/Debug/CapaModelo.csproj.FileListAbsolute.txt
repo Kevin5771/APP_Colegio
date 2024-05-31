@@ -1,2 +1,9 @@
 C:\Users\kevin\source\repos\Sistema\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
 C:\Users\kevin\source\repos\Sistema\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Sistema\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\kevin\source\repos\Sistema\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\kevin\source\repos\Sistema\CapaModelo\bin\Debug\System.Data.SqlClient.dll
+C:\Users\kevin\source\repos\Sistema\CapaModelo\bin\Debug\System.Data.SqlClient.xml
+C:\Users\kevin\source\repos\Sistema\CapaModelo\obj\Debug\CapaModelo.csproj.Up2Date
+C:\Users\kevin\source\repos\Sistema\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\kevin\source\repos\Sistema\CapaModelo\obj\Debug\CapaModelo.pdb

@@ -26,4 +26,4 @@ namespace CapaModelo
         public List<Nivel> oListaNivel { get; set; }
     }
 }
-}
+

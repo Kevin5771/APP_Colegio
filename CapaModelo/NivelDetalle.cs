@@ -17,4 +17,4 @@ namespace CapaModelo
         public bool Activo { get; set; }
     }
 }
-}
+
