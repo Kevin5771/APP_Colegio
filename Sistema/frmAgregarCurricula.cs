@@ -1,5 +1,6 @@
 ﻿using CapaDatos;
 using CapaModelo;
+using Sistema.Reutilizable;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -9,8 +10,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Sistema.Reutilizable;
-
 
 namespace Sistema
 {
@@ -247,10 +246,13 @@ namespace Sistema
 
         private void obtenercurricula()
         {
+            // Obtener IDs seleccionados
             int idnivel = Convert.ToInt32(((ComboBoxItem)cbonivel.SelectedItem).Value);
             int idgradoseccion = Convert.ToInt32(((ComboBoxItem)cbogradoseccion.SelectedItem).Value);
             int idcurso = Convert.ToInt32(((ComboBoxItem)cbocurso.SelectedItem).Value);
             int iddocente = Convert.ToInt32(((ComboBoxItem)cbodocente.SelectedItem).Value);
+
+            // Obtener lista de currículas
             List<Curricula> oListaCurricula = CD_Currricula.Listar(idnivel, idgradoseccion, idcurso, iddocente);
 
             if (oListaCurricula.Count > 0)
@@ -293,9 +295,6 @@ namespace Sistema
                 dgvdata.Columns.Add(BotonElimar);
 
                 dgvdata.Columns["btnEliminar"].Width = 100;
-
-
-
             }
         }
 
@@ -349,7 +348,6 @@ namespace Sistema
                 }
             }
         }
-
         private void label4_Click(object sender, EventArgs e)
         {
 
