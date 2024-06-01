@@ -326,7 +326,8 @@ namespace Sistema
                 return;
             }
 
-            int idcurso = Convert.ToInt32(((ComboBoxItem)cbocurso.SelectedItem).Value);
+            int idcurso = Convert.ToInt32((cbocurso.SelectedItem as ComboBoxItem)?.Value);
+
             int iddocente = Convert.ToInt32(((ComboBoxItem)cbodocente.SelectedItem).Value);
 
             bool encontrado = false;
