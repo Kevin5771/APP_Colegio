@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\kevin\\source\\repos\\Sistema\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29B053D8-A421-4DC3-904D-C601CBB34F25}|CapaModelo\\CapaModelo.csproj|c:\\users\\kevin\\source\\repos\\sistema\\capamodelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29B053D8-A421-4DC3-904D-C601CBB34F25}|CapaModelo\\CapaModelo.csproj|solutionrelative:capamodelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EB308D6A-B98A-4920-A764-FE31C3BFA4CC}|Sistema\\Sistema.csproj|c:\\users\\kevin\\source\\repos\\sistema\\sistema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB308D6A-B98A-4920-A764-FE31C3BFA4CC}|Sistema\\Sistema.csproj|solutionrelative:sistema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB308D6A-B98A-4920-A764-FE31C3BFA4CC}|Sistema\\Sistema.csproj|c:\\users\\kevin\\source\\repos\\sistema\\sistema\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EB308D6A-B98A-4920-A764-FE31C3BFA4CC}|Sistema\\Sistema.csproj|solutionrelative:sistema\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{48E182BA-D443-4C56-9DF5-00D0BE5AE879}|CapaDatos\\CapaDatos.csproj|C:\\Users\\kevin\\source\\repos\\Sistema\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E182BA-D443-4C56-9DF5-00D0BE5AE879}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB308D6A-B98A-4920-A764-FE31C3BFA4CC}|Sistema\\Sistema.csproj|C:\\Users\\kevin\\source\\repos\\Sistema\\sistema\\frmagregarcurricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB308D6A-B98A-4920-A764-FE31C3BFA4CC}|Sistema\\Sistema.csproj|solutionrelative:sistema\\frmagregarcurricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB308D6A-B98A-4920-A764-FE31C3BFA4CC}|Sistema\\Sistema.csproj|C:\\Users\\kevin\\source\\repos\\Sistema\\sistema\\frmagregarcurricula.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB308D6A-B98A-4920-A764-FE31C3BFA4CC}|Sistema\\Sistema.csproj|solutionrelative:sistema\\frmagregarcurricula.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB308D6A-B98A-4920-A764-FE31C3BFA4CC}|Sistema\\Sistema.csproj|C:\\Users\\kevin\\source\\repos\\Sistema\\sistema\\frmasignardocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB308D6A-B98A-4920-A764-FE31C3BFA4CC}|Sistema\\Sistema.csproj|solutionrelative:sistema\\frmasignardocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB308D6A-B98A-4920-A764-FE31C3BFA4CC}|Sistema\\Sistema.csproj|C:\\Users\\kevin\\source\\repos\\Sistema\\sistema\\mdimaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB308D6A-B98A-4920-A764-FE31C3BFA4CC}|Sistema\\Sistema.csproj|solutionrelative:sistema\\mdimaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB308D6A-B98A-4920-A764-FE31C3BFA4CC}|Sistema\\Sistema.csproj|C:\\Users\\kevin\\source\\repos\\Sistema\\sistema\\frmagregarcurricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB308D6A-B98A-4920-A764-FE31C3BFA4CC}|Sistema\\Sistema.csproj|solutionrelative:sistema\\frmagregarcurricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +38,91 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Sistema\\CapaModelo\\Usuario.cs",
-              "RelativeDocumentMoniker": "CapaModelo\\Usuario.cs",
-              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Sistema\\CapaModelo\\Usuario.cs",
-              "RelativeToolTip": "CapaModelo\\Usuario.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Sistema\\CapaDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Sistema\\CapaDatos\\Conexion.cs",
+              "RelativeToolTip": "CapaDatos\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAB6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T02:21:31.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T06:30:37.13Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "frmAgregarCurricula.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Sistema\\Sistema\\frmAgregarCurricula.cs",
+              "RelativeDocumentMoniker": "Sistema\\frmAgregarCurricula.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Sistema\\Sistema\\frmAgregarCurricula.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema\\frmAgregarCurricula.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T06:24:33.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAgregarCurricula.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Sistema\\Sistema\\frmAgregarCurricula.Designer.cs",
+              "RelativeDocumentMoniker": "Sistema\\frmAgregarCurricula.Designer.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Sistema\\Sistema\\frmAgregarCurricula.Designer.cs",
+              "RelativeToolTip": "Sistema\\frmAgregarCurricula.Designer.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:22:51.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmAgregarCurricula.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Sistema\\Sistema\\frmAgregarCurricula.cs",
+              "RelativeDocumentMoniker": "Sistema\\frmAgregarCurricula.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Sistema\\Sistema\\frmAgregarCurricula.cs",
+              "RelativeToolTip": "Sistema\\frmAgregarCurricula.cs",
+              "ViewState": "AQIAABQBAAAAAAAAAAAAACoBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:22:15.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAsignarDocente.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Sistema\\Sistema\\frmAsignarDocente.cs",
+              "RelativeDocumentMoniker": "Sistema\\frmAsignarDocente.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Sistema\\Sistema\\frmAsignarDocente.cs",
+              "RelativeToolTip": "Sistema\\frmAsignarDocente.cs",
+              "ViewState": "AQIAAHwBAAAAAAAAAAAAAEkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T04:15:56.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MDIMaster.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Sistema\\Sistema\\MDIMaster.cs",
+              "RelativeDocumentMoniker": "Sistema\\MDIMaster.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Sistema\\Sistema\\MDIMaster.cs",
+              "RelativeToolTip": "Sistema\\MDIMaster.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAEgAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T04:03:48.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Sistema\\Sistema\\Program.cs",
               "RelativeDocumentMoniker": "Sistema\\Program.cs",
               "ToolTip": "C:\\Users\\kevin\\source\\repos\\Sistema\\Sistema\\Program.cs",
               "RelativeToolTip": "Sistema\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T02:02:11.54Z",
+              "WhenOpened": "2024-05-31T04:58:04.062Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Sistema\\Sistema\\Login.cs",
-              "RelativeDocumentMoniker": "Sistema\\Login.cs",
-              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Sistema\\Sistema\\Login.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Sistema\\Login.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T01:50:23.644Z",
-              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
