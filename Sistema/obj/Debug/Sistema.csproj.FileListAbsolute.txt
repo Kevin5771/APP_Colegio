@@ -19,3 +19,6 @@ C:\Users\kevin\source\repos\Sistema\Sistema\obj\Debug\Sistema.frmAgregarCalifica
 C:\Users\kevin\source\repos\Sistema\Sistema\obj\Debug\Sistema.frmAgregarCurricula.resources
 C:\Users\kevin\source\repos\Sistema\Sistema\obj\Debug\Sistema.frmCrearAlumnos.resources
 C:\Users\kevin\source\repos\Sistema\Sistema\obj\Debug\Sistema.frmCrearDocentes.resources
+C:\Users\kevin\source\repos\Sistema\Sistema\obj\Debug\Sistema.frmCrearGradoSeccion.resources
+C:\Users\kevin\source\repos\Sistema\Sistema\obj\Debug\Sistema.frmCrearNivel.resources
+C:\Users\kevin\source\repos\Sistema\Sistema\obj\Debug\Sistema.frmRegistrarMatricula.resources

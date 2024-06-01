@@ -134,7 +134,7 @@
             // 
             // btnquitar
             // 
-            this.btnquitar.BackColor = System.Drawing.Color.Orange;
+            this.btnquitar.BackColor = System.Drawing.Color.CadetBlue;
             this.btnquitar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnquitar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnquitar.Location = new System.Drawing.Point(314, 172);
@@ -147,7 +147,7 @@
             // 
             // btnagregar
             // 
-            this.btnagregar.BackColor = System.Drawing.Color.Orange;
+            this.btnagregar.BackColor = System.Drawing.Color.AliceBlue;
             this.btnagregar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnagregar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnagregar.Location = new System.Drawing.Point(314, 143);

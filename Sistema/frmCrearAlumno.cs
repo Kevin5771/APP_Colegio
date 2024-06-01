@@ -54,7 +54,7 @@ namespace Sistema
                 cboFiltro.Items.Clear();
 
                 lblTotalRegistros.Text = oListaAlumno.Count.ToString();
-
+                
                 tabla.Columns.Add("IdAlumno", typeof(int));
                 tabla.Columns.Add("Codigo", typeof(string));
                 tabla.Columns.Add("Nombres", typeof(string));
@@ -69,8 +69,8 @@ namespace Sistema
 
                 foreach (Alumno row in oListaAlumno)
                 {
-                    tabla.Rows.Add(row.IdAlumno, row.Codigo, row.Nombres, row.Apellidos, row.DocumentoIdentidad, row.FechaNacimiento.Date.ToString("dd/MM/yyyy", CultureInfo.InvariantCulture),
-                        row.Sexo, row.Ciudad, row.Direccion, row.Activo == true ? "Activo" : "No Activo", row.Activo);
+                    tabla.Rows.Add(row.IdAlumno, row.Codigo, row.Nombres, row.Apellidos, row.DocumentoIdentidad, row.FechaNacimiento.Date.ToString("dd/MM/yyyy", CultureInfo.InvariantCulture), 
+                        row.Sexo,row.Ciudad,row.Direccion, row.Activo == true ? "Activo" : "No Activo",row.Activo);
                 }
 
                 dgvdata.DataSource = tabla;
@@ -122,7 +122,7 @@ namespace Sistema
 
         private void btnEditar_Click(object sender, EventArgs e)
         {
-
+            
 
             if (dgvdata.SelectedRows.Count > 0)
             {
@@ -136,7 +136,7 @@ namespace Sistema
                 txtapellidos.Text = dgvdata.Rows[index].Cells["Apellidos"].Value.ToString();
                 txtdocumentoidentidad.Text = dgvdata.Rows[index].Cells["Documento Identidad"].Value.ToString();
                 txtfechanacimiento.Value = Convert.ToDateTime(dgvdata.Rows[index].Cells["Fecha Nacimiento"].Value.ToString());
-
+     
                 foreach (ComboBoxItem item in cbosexo.Items)
                 {
                     if ((string)item.Value == dgvdata.Rows[index].Cells["Sexo"].Value.ToString())
@@ -209,14 +209,12 @@ namespace Sistema
                 respuesta = CD_Alumno.Editar(oAlumno);
                 msgOk = "Se guardaron los cambios";
                 msgError = "No se pudo guardar los cambios";
-
-            }
-            else
-            {
+                
+            } else {
                 respuesta = CD_Alumno.Registrar(oAlumno);
                 msgOk = "Registro exitoso";
                 msgError = "No se pudo registrar";
-            }
+            } 
 
             if (respuesta)
             {
